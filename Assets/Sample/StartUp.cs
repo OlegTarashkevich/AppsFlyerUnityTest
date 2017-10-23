@@ -28,9 +28,9 @@ public class StartUp : MonoBehaviour {
 
 		#elif UNITY_ANDROID
 
-		AppsFlyer.init ("YOUR_DEV_KEY");
+		AppsFlyer.init ("PrqMz5u3dfv2rzV3fCM7id");
 
-		AppsFlyer.setAppID ("YOUR_APP_ID"); 
+		AppsFlyer.setAppID ("com.mobexs.colorpath"); 
 
 		// for getting the conversion data
 		AppsFlyer.loadConversionData("StartUp");
